@@ -1,2 +1,2 @@
 # UserChecker
-Simple script for user checking on Romanian SA-MP Server Panels
+Simple python script for user checking on Romanian SA-MP Server Panels
